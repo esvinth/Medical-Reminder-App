@@ -1,0 +1,52 @@
+# 💊 Medical Reminder App
+
+A simple and elegant React-based frontend app to help users remember their daily medications on time. Designed with Bootstrap for responsive UI and clean user experience. Ideal for beginners in full-stack development.
+
+---
+## 🚀 Live Demo
+
+Try it out:  
+👉 [https://esvinth.netlify.app/)
+
+## 🚀 Features
+
+- ✅ Add medicine reminders
+- ⏰ Set specific reminder time
+- 📋 View all reminders in card layout
+- ✔️ Mark medicines as taken
+- 🔧 Modular component structure
+- 📱 Fully responsive design using Bootstrap
+
+---
+
+## 📂 Project Structure
+    medical-reminder-app/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── Header.js
+│ │ ├── ReminderForm.js
+│ │ └── ReminderCard.js
+│ ├── styles.css
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/medical-reminder-app.git
+
+# Navigate to project directory
+cd medical-reminder-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
